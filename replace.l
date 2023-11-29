@@ -2,8 +2,8 @@
 #include<stdio.h> 
 #include<string.h> 
 
-char replace_with [] = "fuckin"; 
-char replace [] ="blooody"; 
+char replace_with [] = "eat"; 
+char replace [] ="go"; 
 
 %} 
 
